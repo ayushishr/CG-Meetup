@@ -1,0 +1,26 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: linear-gradient(90deg, rgba(181,159,105,1) 0%, rgba(210,196,162,1) 49%, rgba(201,181,132,1) 100%);
+  }
+  
+  .navbar-logo {
+    font-size: 1.5rem;
+    /* color: white; */
+    color: black;
+    text-decoration: none;
+  }
+  
+  .navbar-link {
+    color: black;
+    text-decoration: none;
+    font-weight:800;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    
+  }
+  
